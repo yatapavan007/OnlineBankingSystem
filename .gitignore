@@ -1,0 +1,32 @@
+# Ignore Java class files
+*.class
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore Eclipse/IDE files
+.settings/
+.project
+.classpath
+
+# Ignore IntelliJ IDEA files
+.idea/
+*.iml
+
+# Ignore build output folders
+target/
+bin/
+
+# Ignore generated WAR files
+*.war
+
+# Ignore OneDrive files (optional)
+~$*
+
+# Ignore Maven target folder (if used)
+target/
